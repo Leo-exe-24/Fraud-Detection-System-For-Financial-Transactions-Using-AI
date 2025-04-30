@@ -80,12 +80,15 @@ fraud-detection-system/
 <h2>Screenshots</h2>
 <ul>
   <li>Terminal output showing top and bottom 10 transactions</li>
+
   ![Screenshot 2025-05-01 035517](https://github.com/user-attachments/assets/965b9592-8401-4de6-9702-8ed3f7ebd3c8)
   ![Screenshot 2025-05-01 035538](https://github.com/user-attachments/assets/874bbb51-ddda-4bf0-baf6-d0e427487392)
   <li>Interactive pie chart</li>
+  
   ![Screenshot 2025-04-21 173118](https://github.com/user-attachments/assets/a6f4a32b-4fe2-480b-b709-f78402bd6e0b)
   ![Screenshot 2025-04-21 173227](https://github.com/user-attachments/assets/541660f4-fc4a-48ae-9755-9aed1af10e77)
   <li>Graphs displaying transaction patterns and fraud insights</li>
+  
   ![Screenshot 2025-04-21 173302](https://github.com/user-attachments/assets/66ce03aa-9a1d-4529-9595-609aa19b19cb)
   ![Screenshot 2025-04-21 173328](https://github.com/user-attachments/assets/870b6eef-3df8-41c7-a823-60972f3b9904)
   ![Screenshot 2025-04-21 173351](https://github.com/user-attachments/assets/6494114c-d30a-443d-b6a4-fcb2170cfba1)
