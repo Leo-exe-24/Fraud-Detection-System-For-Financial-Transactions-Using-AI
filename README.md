@@ -75,7 +75,7 @@ fraud-detection-system/
    python main.py
 </pre>
 
-<p><strong>Note:</strong> Ensure that your input CSV file is correctly placed in the <code>payment.csv</code> folder or its path is properly referenced in <code>main.py</code>.</p>
+<p><strong>Note:</strong> Ensure that your input CSV file is correctly placed in the main project folder named <code>payment.csv</code> or its path is properly referenced in <code>main.py</code>.</p>
 
 <h2>Screenshots</h2>
 <ul>
